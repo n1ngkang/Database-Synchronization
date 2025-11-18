@@ -1,4 +1,4 @@
-# Subscription Contract Automation Engine
+# Contract Data Synchronization Engine
 ## Executive Summary
 This project is a Google Apps Script (GAS) synchronization engine engineered to resolve persistent data integrity and execution timeout issues encountered within large-scale, cross-spreadsheet data flows, resolveing the instability and slow performance problems brought by previous inefficient scripting attempts. 
 This engine completely automates the transfer of critical Subscription Contract data from a primary Source Database to a Public View Layer, achieving robust and 24/7 automation via a two-hour time-based trigger cycle. 
